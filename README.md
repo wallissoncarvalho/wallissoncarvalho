@@ -13,7 +13,7 @@ Data Science, Statistics, Geographic Information Science (GIS), and environmenta
 
 ---
 
-### Open-source Projects [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/wallissoncarvalho/)
+### [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/wallissoncarvalho/)
 
 - **Open web platform for brazilian watersheds analysis, planning and management:** [FlowHub](http://flowhub.com.br/)
 - **Python packages:** [HydroBr](https://github.com/wallissoncarvalho/hydrobr)

@@ -18,6 +18,7 @@ Data Science, Statistics, Geographic Information Science (GIS), and environmenta
 - **Open web platform for brazilian watersheds analysis, planning and management:** [FlowHub](http://flowhub.com.br/)
 - **Python packages:** [HydroBr](https://github.com/wallissoncarvalho/hydrobr)
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallissoncarvalho&layout=compact)]
 ![github stats](https://github-readme-stats.vercel.app/api?username=wallissoncarvalho&show_icons=true)
 
 ---

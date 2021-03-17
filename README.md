@@ -10,10 +10,5 @@ Intrigued and inclined towards areas of Water Resources,
 Data Science, Statistics, Geographic Information Science (GIS), and environmental modeling.
 
 ---
-
-### [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/wallissoncarvalho/)
-[HydroBr](https://github.com/hydrobr)
----
 ![github stats](https://github-readme-stats.vercel.app/api?username=wallissoncarvalho&show_icons=true&theme=dark)
-
 ---
